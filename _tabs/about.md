@@ -4,15 +4,13 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I am [Andrea Gavazzi](https://github.com/andreagavazzi) an IT enthusiast and a maker. I love learning, building and programming. That's basically the reason why I'm interested in IT.
-As a programmer, I enjoy bringing in the code I wrote, the obsessive attention to details I'm known for. I can truly see programming as a form of modern art. 
-
-**Talking about me:**
-
-- 👨🏻‍💻 I’m currently working for [CLAAS](https://www.claas.it) as Head of local IT;
-- 📝 You can download my resume [here](https://github.com/andreagavazzi/Curriculum/blob/main/AndreaGavazzi_CV_IT.pdf);
-- 🚀 In 2016 I created [agRobotics]() as a branding for my side projects in Robotic Science;
-- 📝 I like writing software documentation;
-- 🚣 I love Kayaking when the sunset is imminent and the dusk glitters in the lake.
+**La storia**
+Correva l'anno 2014 quando, per far fronte ad un ormai obsoleto software gestionale, CLAAS Agricoltura ha deciso di candidarsi ad un progetto pilota che vedeva l'introduzione nel gruppo CLAAS di un Dealer Management System al passo coi tempi e interfacciato con tutte le soluzioni già presenti nel gruppo.
+Si è scelto l'ERP di Microsoft, l'allora Dynamics AX 2012.
 
 
+**Chi sono**
+Mi chiamo Andrea Gavazzi e sono responsabile del dipartimento informatico di CLAAS Italia e CLAAS Agricoltura. Dal 2015 seguo il progetto Dynamics come local Project Manager e responsabile della parte operations.
+
+#TODO
+Continuare
