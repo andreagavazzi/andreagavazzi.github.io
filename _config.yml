@@ -10,7 +10,7 @@ baseurl: 'https://andreagavazzi.github.io'
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: it
+lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
@@ -19,7 +19,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Dynamics 365                          # the main title
+title: Dynamics 365 FO                          # the main title
 
 tagline: Manuali d'uso   # it will display as the sub-title
 
