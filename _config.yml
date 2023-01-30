@@ -19,9 +19,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Guide a Dynamics 365                          # the main title
+title: Dynamics 365                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Manuali d'uso   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
