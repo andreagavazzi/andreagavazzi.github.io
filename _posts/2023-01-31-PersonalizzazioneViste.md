@@ -1,7 +1,7 @@
 ---
 title: La personalizzazione delle viste
 date: 2023-01-31 23:19:00 +0100
-categories: [Generale, Personalizzazioni]
+categories: [Generale, Sistema]
 tags: [personalizzazioni]     # TAG names should always be lowercase
 ---
 
