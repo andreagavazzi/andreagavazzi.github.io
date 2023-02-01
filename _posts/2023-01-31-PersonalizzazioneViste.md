@@ -13,7 +13,7 @@ Potrà creare quante viste desidera (es. una per ordini macchine, una per ordini
 > Un amministratore di sistema potrà trasferire la vista creata ad altri colleghi che la troveranno disponbile nel proprio menu.
 {: .prompt-tip}
 
-![01](/assets/img/01/personalizzazione01.png){: w="700" .left}
+![01](/assets/img/01/personalizzazione01.png){: w="700"}
 
 
 Esempio: organizzazione colonne
