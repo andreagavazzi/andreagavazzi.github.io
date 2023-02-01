@@ -104,10 +104,13 @@ Una volta creato il giornale contenente l’elenco degli articoli da contare, ve
 Sullo scanner seleziona la voce “Count”. Verranno mostrati tutti i giornali di conteggio aperti (uno solo in questo caso). Toccare quello che si intende processare per portarsi al suo interno. 
 Al fine di non condizionare l’utente che esegue il conteggio, sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema. La colonna delle quantità indica invece il valore del conteggio. <br>
 
-![14](/assets/img/02/14.png){: .left w="250"}<br>
-![15](/assets/img/02/15.png){: .left w="250"}<br>
-![16](/assets/img/02/16.png){: .left w="250"}<br>
+![14](/assets/img/02/14.png){: .left w="250"}  
 <br>
+![15](/assets/img/02/15.png){: .left w="250"}  
+<br>
+![16](/assets/img/02/16.png){: .left w="250"}  
+<br>
+
 È possibile, ma non obbligatorio, ridurre la lista mostrata filtrando sull’ubicazione desiderata: Scansionare il QR code dell’ubicazione per applicare il filtro.
 Per passare ad un’altra ubicazione sarà sufficiente scansionare il nuovo QR code, il filtro si modificherà di conseguenza
 Per eliminare il filtro e visualizzare nuovamente l’intero giornale, toccare la “x”
