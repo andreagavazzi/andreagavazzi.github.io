@@ -3,7 +3,7 @@ title: L'inventario
 date: 2023-02-01 16:27:00 +0100
 categories: [Tutte le aree, Ricambi]
 tags: [ricambi, inventario, rettifiche]     # TAG names should always be lowercase
-pin: true
+pin: false
 ---
 
 ## Introduzione
@@ -85,9 +85,7 @@ Una volta creato il giornale con l’elenco degli articoli da contare, verificar
 Sullo scanner seleziona la voce “Count”. Verranno mostrati tutti i giornali di conteggio aperti (uno solo in questo caso). Toccare quello che si intende processare per portarsi al suo interno. 
 Al fine di non condizionare l’utente che esegue il conteggio, sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema. La colonna delle quantità indica invece il valore del conteggio.
 
-![14](/assets/img/02/14.png){: .left w="250"}  
-![15](/assets/img/02/15.png){: .left w="250"}  
-![16](/assets/img/02/16.png){: .left}  
+![14](/assets/img/02/14.png){: .left w="200"} ![15](/assets/img/02/15.png){: .left w="200"} ![16](/assets/img/02/16.png){: .left w="200"}  
 <br>
 
 È possibile (ma non obbligatorio) ridurre la lista mostrata filtrando sull’ubicazione desiderata: Scansionare il QR code dell’ubicazione per applicare il filtro.
