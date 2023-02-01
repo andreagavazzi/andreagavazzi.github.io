@@ -12,7 +12,10 @@ Potrà creare quante viste desidera (es. una per ordini macchine, una per ordini
 
 > Un amministratore di sistema potrà trasferire la vista creata ad altri colleghi che la troveranno disponbile nel proprio menu.
 {: .prompt-tip}
- 
+
+![01](/assets/img/01/personalizzazione01.png){: w="700" .left}
+
+
 Esempio: organizzazione colonne
 Partendo dalla vista “Tutti gli ordini cliente” applico i filtri e aggiungo e/o sposto le colonne in modo da arrivare alla visualizzazione desiderata.
 L’idea dell’esempio, è quella di avere un report degli ordini clienti ancora da fatturare.
