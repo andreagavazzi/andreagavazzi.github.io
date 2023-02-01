@@ -6,9 +6,6 @@ tags: []     # TAG names should always be lowercase
 pin: true
 ---
 
-https://claas.operations.dynamics.com/
-https://claas-uat.sandbox.operations.dynamics.com/
-
 
 > #TODO
 {: .prompt-info }
