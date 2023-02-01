@@ -103,12 +103,9 @@ Sullo scanner seleziona la voce “Count”
 
 
 
-| ![14](/assets/img/02/14.png){: w="250"} | ![15](/assets/img/02/15.png){: w="250"} | ![16](/assets/img/02/16.png){: w="250"} |
-| --- | --- | --- |
-
-| ![14](/assets/img/02/14.png)                      | ![15](/assets/img/02/15.png)          | ![16](/assets/img/02/16.png) |
+| ![14](/assets/img/02/14.png) | ![15](/assets/img/02/15.png) | ![16](/assets/img/02/16.png) |
 |:-----------------------------|:-----------------|--------:|
-
+| Alfreds Futterkiste          | Maria Anders     | Germany |
 
 
 
