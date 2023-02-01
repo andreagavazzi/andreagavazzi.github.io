@@ -105,7 +105,7 @@ Sullo scanner seleziona la voce “Count”
 
 | ![14](/assets/img/02/14.png){: w="250"} | ![15](/assets/img/02/15.png){: w="250"} | ![16](/assets/img/02/16.png){: w="250"} |
 |:-----------------------------|:-----------------|--------:|
-|           |     | |
+|fig.1           |fig.2     |fig.3 |
 
 
 
