@@ -37,8 +37,8 @@ Attribuire un nome (1) ed una descrizione (2) alla propria vista. È possibile i
 
 ![02](/assets/img/01/personalizzazione04.png)
 <br>
-> Se imposto la vista come predefinita, ogni volta che entrerò nella lista “tutti i clienti” avrò la mia personalizzazione
-{: .prompt-tip}
+> Se è stata impostata come predefinita, la vista sarà quella che comparirà quando si accede alla lista (“tutti i clienti” nell'esempio).
+{: .prompt-info}
 
 ## Richiamare una vista salvata  
 Le viste salvate saranno ora disponibili nel menu di vista assieme alla visualizzazione standard (che è quella classica di sistema, non sovrascrivibile né cancellabile)
