@@ -1,6 +1,6 @@
 ---
 title: L'inventario
-date: 2023-02-01 17:27:00 +0100
+date: 2023-02-01 16:27:00 +0100
 categories: [Tutte le aree, Ricambi]
 tags: [ricambi, inventario, rettifiche]     # TAG names should always be lowercase
 pin: true
