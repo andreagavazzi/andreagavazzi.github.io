@@ -16,7 +16,8 @@ Gli articoli nel giornale verranno quindi conteggiati, con supporto cartaceo o t
 # Creazione del giornale
 Entrare in Gestione articoli / Scritture contabili / Conteggio articoli / Conteggio
 
-![02](/assets/img/02/01.png)
+![01](/assets/img/02/01.png)
+<br>
 
 Creare un nuovo giornale premendo “Nuovo” (1)  
 Verificare la correttezza di sito e magazzino (2)  
@@ -27,11 +28,14 @@ Inserire la persona che sta facendo il conteggio (4)
  
 # Inserimento delle righe
 Scegliere dal menu “Crea righe” la voce “Disponibilità”
- 
+
+![01a](/assets/img/02/01a.png)
+<br>
 
 In questa schermata è necessario selezionare la combinazione di parametri e di filtri che porteranno alla creazione delle righe articoli nel giornale.
 1.	Parametri
- 
+![02](/assets/img/02/02.png)
+<br>
 
 Data di conteggio: la data in cui si esegue il conteggio.
 Non contati da: l’elenco includerà tutti gli articoli che, a partire dalla data inserita, non sono mai stati contati (il sistema controlla la Data di conteggio).
@@ -40,27 +44,42 @@ Ho poi un gruppo di parametri che vanno abilitati e indicano al sistema come pro
 
 2.	Record da includere (filtro)
 Accedere al filtro per definire ulteriormente l’elenco degli articoli proposti dal sistema
-  
+![03](/assets/img/02/03.png)
+<br>
+
 # Inserimento dei filtri
- 
+![04](/assets/img/02/04.png)
+<br>
+
 Es. Con questa selezione sto chiedendo al sistema di elencarmi tutti gli articoli del magazzino ricambi di Leno che hanno a che fare con gli scaffali 20001A, 20001B, 20001C, 20001D, 20001E.
 N.B. In appendice è presente un elenco sulla sintassi nei filtri.
 
 Definire anche l’ordinamento in modo da avere una lista più facilmente consultabile.
- 
+
+![05](/assets/img/02/05.png)
+<br>
+
 Prestare attenzione alle tabelle scelte. Nell’esempio qui sopra il sistema ordinerà in modo crescente per Ubicazione e, all’interno di una stessa ubicazione, per numero articolo.
 Premere “OK” e, verificati i parametri, ancora “OK”
  
-Dopo qualche secondo il sistema mi inserirà tutte gli articoli che rientrano nei parametri impostati
- 
+Dopo qualche secondo il sistema mi inserirà tutte gli articoli che rientrano nei parametri impostati  
+
+![06](/assets/img/02/06.png)
+<br>
 
 Come in tutte le liste di D365 è possibile inserire ulteriori colonne come di consueto. Ubicazione e Prezzo di costo sono senza dubbio importanti.
 
 > La colonna “Ubicazione”, come tutte le colonne relative alle dimensioni, deve essere aggiunta in questo modo:
 {: .prompt-warning} 
 
+![07](/assets/img/02/07.png)
+<br>
+
 Nel caso fosse stato commesso un errore durante la scelta dei parametri o dei filtri è possibile eliminare tutte le righe tramite il menu Funzioni / Elimina righe giornale di registrazione
- 
+
+![08](/assets/img/02/08.png)
+<br>
+
 È inoltre possibile inserire manualmente nuove righe nel giornale stesso. Utile per apportare piccole correzioni.
 
 Conteggio con supporto cartaceo
