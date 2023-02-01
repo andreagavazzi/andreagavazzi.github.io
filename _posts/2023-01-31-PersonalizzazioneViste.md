@@ -3,6 +3,7 @@ title: La personalizzazione delle viste
 date: 2023-01-31 23:19:00 +0100
 categories: [Generale, Sistema]
 tags: [personalizzazioni]     # TAG names should always be lowercase
+pin: true
 ---
 
 La personalizzazione delle viste permette di salvare la disposizione delle colonne e l’impostazione dei filtri in modo da richiamarli velocemente all’occorrenza.  
