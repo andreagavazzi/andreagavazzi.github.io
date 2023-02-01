@@ -98,9 +98,7 @@ Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria
 
 # Conteggio con scanner
 La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
-Una volta creato il giornale contenente l’elenco degli articoli da contare, verificare che l’opzione “Rilascia su Mobile” sia attiva. Solo in questo caso il giornale sarà visualizzato sullo scanner.
- 
- 
+Una volta creato il giornale contenente l’elenco degli articoli da contare, verificare che l’opzione “Rilascia su Mobile” sia attiva. Solo in questo caso il giornale sarà visualizzato sullo scanner.  
 Sullo scanner seleziona la voce “Count”  
 
 ![14](/assets/img/02/14.png){: .left w="250"}
