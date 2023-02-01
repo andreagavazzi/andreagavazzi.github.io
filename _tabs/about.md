@@ -11,7 +11,6 @@ Questo sito nasce da tanta passione e dalla volontà di redigere una documentazi
 ## L'autore ##
 
 Andrea Gavazzi, classe 1974, si è laureato in Economia e Commercio ed è oggi responsabile del dipartimento informatico di CLAAS Italia e di CLAAS Agricoltura. Dal 2014 segue il progetto Dynamics come local Project Manager e responsabile del comparto operations.  
-
 [Profilo LinkedIn](https://www.linkedin.com/in/andreagavazzi/)
 
 <br>
