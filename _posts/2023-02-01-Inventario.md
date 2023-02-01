@@ -101,17 +101,23 @@ La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
 Una volta creato il giornale contenente l’elenco degli articoli da contare, verificare che l’opzione “Rilascia su Mobile” sia attiva. Solo in questo caso il giornale sarà visualizzato sullo scanner.  
 Sullo scanner seleziona la voce “Count”
 
-![14](/assets/img/02/14.png){: w="250"}
+
+
+| ![14](/assets/img/02/14.png){: w="250"} | ![15](/assets/img/02/15.png){: w="250"} | ![16](/assets/img/02/16.png){: w="250"} |
+| --- | --- | --- |
+
+
+
 <br>
 
 Verranno mostrati tutti i giornali di conteggio aperti (uno solo in questo caso). Toccare quello che si intende processare per portarsi al suo interno.
 
-![15](/assets/img/02/15.png){: w="250"}  
+  
 <br>
 
 Al fine di non condizionare l’utente che esegue il conteggio, sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema. La colonna delle quantità indica il valore del conteggio.
 
-![16](/assets/img/02/16.png){: w="250"}  
+  
 <br>
 
 È possibile, ma non obbligatorio, ridurre la lista mostrata filtrando sull’ubicazione desiderata: Scansionare il QR code dell’ubicazione per applicare il filtro.
