@@ -1,3 +1,11 @@
+---
+title: L'inventario
+date: 2023-02-01 18:27:00 +0100
+categories: [Tutte le aree, Ricambi]
+tags: [ricambi, inventario, rettifiche]     # TAG names should always be lowercase
+pin: true
+---
+
 ## Introduzione
 L’inventario è gestito in sistema tramite un giornale di registrazione che, in automatico, raccoglie tuti gli articoli che rispecchiano le condizioni scelte dall’utente.
 Gli articoli raccolti verranno quindi conteggiati, con supporto cartaceo o tramite scanner. Le differenze rilevate saranno automaticamente trasferite in una rettifica inventariale.
