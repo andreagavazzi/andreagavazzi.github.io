@@ -8,19 +8,21 @@ pin: true
 
 ## Introduzione
 L’inventario è gestito in sistema tramite un giornale di registrazione che, in automatico, raccoglie tuti gli articoli che rispecchiano le condizioni scelte dall’utente.
-Gli articoli raccolti verranno quindi conteggiati, con supporto cartaceo o tramite scanner. Le differenze rilevate saranno automaticamente trasferite in una rettifica inventariale.
+Gli articoli nel giornale verranno quindi conteggiati, con supporto cartaceo o tramite scanner. Le differenze rilevate saranno automaticamente trasferite in una rettifica inventariale.
 
 > Un articolo inserito nel giornale di conteggio e già contato non sarà disponibile per altre registrazioni (acquisto, vendita, trasferimento, …). È buona normale pertanto avere tanti piccoli giornali con un minimo numero di righe.
 {: .prompt-warning}
 
 # Creazione del giornale
 Entrare in Gestione articoli / Scritture contabili / Conteggio articoli / Conteggio
- 
-Creare un nuovo giornale premendo “Nuovo” (1)
-Verificare la correttezza di sito e magazzino (2)
-Abilitare magazzino e ubicazione (3)
-Nel caso si volessero utilizzare gli scanner abilitare la voce “Rilascio su mobile” (5). È comunque possibile abilitare questa funzione anche successivamente.
-Inserire la persona che sta facendo il conteggio (4)
+
+![02](/assets/img/02/01.png)
+
+Creare un nuovo giornale premendo “Nuovo” (1)  
+Verificare la correttezza di sito e magazzino (2)  
+Abilitare magazzino e ubicazione (3)  
+Nel caso si volessero utilizzare gli scanner abilitare la voce “Rilascio su mobile” (5). È comunque possibile abilitare questa funzione anche successivamente.  
+Inserire la persona che sta facendo il conteggio (4)  
 
  
 # Inserimento delle righe
@@ -82,7 +84,8 @@ Una volta creato il giornale con l’elenco degli articoli da contare, verificar
  
 Sullo scanner seleziona la voce “Count”. Verranno mostrati tutti i giornali di conteggio aperti (uno solo in questo caso). Toccare quello che si intende processare per portarsi al suo interno. 
 Al fine di non condizionare l’utente che esegue il conteggio, sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema. La colonna delle quantità indica invece il valore del conteggio.
-          
+
+![14](/assets/img/02/14.png){: w="250"} ![15](/assets/img/02/15.png){: w="250"} ![16](/assets/img/02/16.png){: w="250"}
 
 È possibile (ma non obbligatorio) ridurre la lista mostrata filtrando sull’ubicazione desiderata: Scansionare il QR code dell’ubicazione per applicare il filtro.
 Per passare ad un’altra ubicazione sarà sufficiente scansionare il nuovo QR code, il filtro si modificherà di conseguenza
