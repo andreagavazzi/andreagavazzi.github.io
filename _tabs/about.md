@@ -4,7 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
+![](/assets/img/me1.jpg){: width="200" height="200" }
 
+<br>
 
 ## Chi sono
 Mi chiamo Andrea Gavazzi e sono responsabile del dipartimento informatico di CLAAS Italia e di CLAAS Agricoltura. Dal 2014 seguo il progetto Dynamics come local Project Manager e responsabile del comparto operations.
