@@ -101,11 +101,12 @@ La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
 Una volta creato il giornale contenente l’elenco degli articoli da contare, verificare che l’opzione “Rilascia su Mobile” sia attiva. Solo in questo caso il giornale sarà visualizzato sullo scanner.  
 1. Nel menu principale dello scanner seleziona la voce “Count”
 2. Verranno mostrati tutti i giornali di conteggio aperti (uno in questo caso). Toccare quello che si intende processare per portarsi al suo interno.
-3. Sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema, ma il solo valore conteggiato.
+3. Sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema, ma il solo valore conteggiato.  
 
 |                             |                             |                             |
 |:----------------------------|:----------------------------|:----------------------------|
 | ![14](/assets/img/02/14.png){: w="250"} | ![15](/assets/img/02/15.png){: w="250"} | ![16](/assets/img/02/16.png){: w="250"} |
+
 <br>
 
 
