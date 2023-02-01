@@ -106,12 +106,11 @@ Una volta creato il giornale contenente l’elenco degli articoli da contare, ve
 |                             |                             |                             |
 |:----------------------------|:----------------------------|:----------------------------|
 | ![14](/assets/img/02/14.png){: w="250"} | ![15](/assets/img/02/15.png){: w="250"} | ![16](/assets/img/02/16.png){: w="250"} |
-
 <br>
 
 
-> È possibile, semplificare la lista mostrata filtrando sull’ubicazione desiderata semplicemnte scansionando il QR code dell’ubicazione che verrà applicato come un normale filtro.
-Per passare ad un’altra ubicazione sarà sufficiente scansionare il nuovo QR code, il filtro si modificherà di conseguenza
+> Per semplificare la lista mostrata è possibile scansionare il QR code di un'ubicazione che verrà applicato come un normale filtro alla lista.
+Per passare ad un’altra ubicazione sarà sufficiente scansionare il QR code dell'ubicazione successiva, il filtro si modificherà di conseguenza.
 Per eliminare il filtro e visualizzare nuovamente l’intero giornale, toccare la “x”
 {: .prompt-tip}
 
