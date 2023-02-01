@@ -69,7 +69,7 @@ Dopo qualche secondo il sistema mi inserirà tutte gli articoli che rientrano ne
 
 Come in tutte le liste di D365 è possibile inserire ulteriori colonne come di consueto. Ubicazione e Prezzo di costo sono senza dubbio importanti.
 
-> La colonna “Ubicazione”, come tutte le colonne relative alle dimensioni, deve essere aggiunta in questo modo:
+> La colonna “Ubicazione”, come tutte le colonne relative alle dimensioni inventariali (sito, magazzino, ubicazione,...), deve essere aggiunta tramite l'apposita funzione "visualizza dimensioni":
 {: .prompt-warning} 
 
 ![07](/assets/img/02/07.png)
@@ -99,17 +99,17 @@ Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria
 # Conteggio con scanner
 La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
 Una volta creato il giornale contenente l’elenco degli articoli da contare, verificare che l’opzione “Rilascia su Mobile” sia attiva. Solo in questo caso il giornale sarà visualizzato sullo scanner.  
-Sullo scanner seleziona la voce “Count”  
+Sullo scanner seleziona la voce “Count”
 
 ![14](/assets/img/02/14.png){: .left w="250"}
 <br>
 
-Verranno mostrati tutti i giornali di conteggio aperti (uno solo in questo caso). Toccare quello che si intende processare per portarsi al suo interno. 
+Verranno mostrati tutti i giornali di conteggio aperti (uno solo in questo caso). Toccare quello che si intende processare per portarsi al suo interno.
 
 ![15](/assets/img/02/15.png){: .left w="250"}  
 <br>
 
-Al fine di non condizionare l’utente che esegue il conteggio, sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema. La colonna delle quantità indica invece il valore del conteggio.
+Al fine di non condizionare l’utente che esegue il conteggio, sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema. La colonna delle quantità indica il valore del conteggio.
 
 ![16](/assets/img/02/16.png){: .left w="250"}  
 <br>
