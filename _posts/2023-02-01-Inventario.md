@@ -178,7 +178,7 @@ In D365, le righe contate tramite scanner saranno evidenziate dal segno di spunt
 A: articoli contati con lo scanner
 B: articoli contati manualmente
 
-# Registrazione
+# [Registazione](Registrazione)
 Terminato l’inserimento e le opportune verifiche del caso, è possibile convalidare e registrare il giornale.
 Tutte le righe devono essere state contate, cioè deve esserci un valore nella colonna “Contato”  
 
