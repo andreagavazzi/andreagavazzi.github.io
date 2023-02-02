@@ -22,8 +22,8 @@ Entrare in Gestione articoli / Scritture contabili / Conteggio articoli / Conteg
 Creare un nuovo giornale premendo “Nuovo” (1)  
 Verificare la correttezza di sito e magazzino (2)  
 Abilitare magazzino e ubicazione (3)  
-Nel caso si volessero utilizzare gli scanner abilitare la voce “Rilascio su mobile” (5), ma è possibile abilitare questa funzione anche successivamente.  
 Inserire la persona che sta facendo il conteggio (4)  
+Nel caso si volessero utilizzare gli scanner abilitare la voce “Rilascio su mobile” (5), ma è possibile abilitare questa funzione anche successivamente.  
 
 # Inserimento delle righe
 Scegliere dal menu “Crea righe” la voce “Disponibilità”
@@ -38,7 +38,8 @@ In questa schermata è necessario selezionare la combinazione di parametri e di 
 <br>
 
 Data di conteggio: la data in cui si esegue il conteggio.  
-Non contati da: l’elenco includerà tutti gli articoli che, a partire dalla data inserita, non sono mai stati contati (il sistema controlla la Data di conteggio).  
+Non contati da: l’elenco includerà tutti gli articoli che, a partire dalla data inserita, non sono mai stati contati (il sistema controlla la Data di conteggio presente in anagrafica articolo / Gestione articoli / Articoli di Magazzino).  
+
 Includere articoli senza disponibilità: deve essere attivo in quanto è necessario contare anche quegli articoli per i quali non ho disponibilità in sistema. Potrei infatti avere una loro disponibilità fisica.  
 Ho poi un gruppo di parametri che vanno abilitati e indicano al sistema come produrre la lista: Configurazione, Magazzino, Stato inventario, Ubicazione.  
 
