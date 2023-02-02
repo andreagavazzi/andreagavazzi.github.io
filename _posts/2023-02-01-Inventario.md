@@ -104,7 +104,7 @@ Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria
 ![12](/assets/img/02/12.png)
 <br>
 
-Salvare quanto fatto e procedere con la .
+Salvare quanto fatto e procedere con la <A href="#registrazione">Registrazione</A>.
 
 # Conteggio con scanner
 La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
@@ -178,7 +178,7 @@ In D365, le righe contate tramite scanner saranno evidenziate dal segno di spunt
 A: articoli contati con lo scanner
 B: articoli contati manualmente
 
-# Registazione #
+# Registrazione #
 Terminato l’inserimento e le opportune verifiche del caso, è possibile convalidare e registrare il giornale.
 Tutte le righe devono essere state contate, cioè deve esserci un valore nella colonna “Contato”  
 
