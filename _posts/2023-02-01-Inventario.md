@@ -143,6 +143,7 @@ Scansionare il codice articolo da contare, confermare l’ubicazione attuale (no
 # Conteggio ripetuto e gestione errori
 Quando si inserisce la quantità di un articolo, fare attenzione a quanto indicato sullo schermo: se è presente la barra verde allora l’articolo è già stato contato (viene mostrato anche il valore).
 Un nuovo input si somma a quello già presente. Il che in alcuni casi potrebbe essere utile per modificare, ma solo in aumento, un conteggio precedente.  
+
 |                             |                             |
 |:----------------------------|:----------------------------|
 | ![21](/assets/img/02/21.png){: w="250"} | ![22](/assets/img/02/22.png){: w="250"} |
@@ -159,18 +160,36 @@ Toccando brevemente una registrazione sarà possibile modificarne la quantità, 
 <br>
 
 # Invio a D365
-Per trasferire a sistema il conteggio finora effettuato selezionare dal menu     la funzione “Post”. Dopo qualche secondo un messaggio avviserà del completamento dell’operazione. Quanto sullo scanner verrà trasferito in D365.
-         
- 
+Per trasferire a sistema il conteggio finora effettuato selezionare dal menu la funzione “Post”. Dopo qualche secondo un messaggio avviserà del completamento dell’operazione. Quanto sullo scanner verrà trasferito in D365.  
+
+|                             |                             |                             |
+|:----------------------------|:----------------------------|:----------------------------|
+| ![26](/assets/img/02/26.png){: w="250"} | ![27](/assets/img/02/27.png){: w="250"} | ![28](/assets/img/02/28.png){: w="250"} |
+
+<br>
+       
 In D365, le righe contate tramite scanner saranno evidenziate dal segno di spunta
- 
+
+![29](/assets/img/02/29.png)
+<br>
+
 A: articoli contati con lo scanner
 B: articoli contati manualmente
 
 # Registrazione rettifiche
 Terminato l’inserimento e le opportune verifiche del caso, è possibile convalidare e registrare il giornale.
-Tutte le righe devono essere state contate, cioè deve esserci un valore nella colonna “Contato”
- 
+Tutte le righe devono essere state contate, cioè deve esserci un valore nella colonna “Contato”  
+
+![30](/assets/img/02/30.png)
+<br>
 
 Il sistema procederà a rettificare quegli articoli che hanno una differenza positiva o negativa tra disponibile e contato. L’operazione si concluderà dopo qualche secondo. 
-Tramite la funzione “Visualizza registrazioni” è possibile verificare le registrazioni effettuate ed il giustificativo prodotto
+Tramite la funzione “Visualizza registrazioni” è possibile verificare le registrazioni effettuate ed il giustificativo prodotto  
+
+![31](/assets/img/02/31.png)
+<br>
+
+![32](/assets/img/02/32.png)
+<br>
+
+
