@@ -194,4 +194,33 @@ Tramite la funzione “Visualizza registrazioni” è possibile verificare le re
 ![32](/assets/img/02/32.png)
 <br>
 
+# Sintassi nei filtri
+
+
+|     Descrizione                                |     Sintassi                |
+|------------------------------------------------|-----------------------------|
+|     Uguale a 20001A                            |     20001A                  |
+|     Diverso da 20001A                          |     !20001A                 |
+|     Uguale a 20001A,   20002A, 20003A          |     20001A,20002A,20003A    |
+|     Contiene 20001                             |     *20001*                 |
+|     Non contiene 20001                         |     !*20001*                |
+|     Inizia con 2                               |     2*                      |
+|     Superiore a 20001C                         |     >20001C                 |
+|     Superiore o   uguale a 20001C              |     20001C..                |
+|     Inferiore a 20001C                         |     <20001C                 |
+|     Inferiore o   uguale a 20001C              |     ..20001C                |
+|     Tra 20001A e 20001C   (estremi inclusi)    |     20001A..20001C          |
+
+<br>
+
+# Barcode e QR
+
+|                             |                             |
+|:----------------------------|:----------------------------|
+| ![33](/assets/img/02/33.png){: w="250"} | ![34](/assets/img/02/34.png){: w="250"} |
+| ![35](/assets/img/02/35.png){: w="250"} | ![36](/assets/img/02/36.png){: w="250"} |
+
+<br>  
+
+
 
