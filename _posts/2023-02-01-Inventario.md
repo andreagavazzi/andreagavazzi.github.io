@@ -83,22 +83,34 @@ Nel caso fosse stato commesso un errore durante la scelta dei parametri o dei fi
 È inoltre possibile inserire manualmente nuove righe nel giornale stesso. Utile per apportare piccole correzioni.
 
 Conteggio con supporto cartaceo
-Tramite la funzione “Stampa / Elenco di conteggio” verranno prodotte le stampe che accompagneranno l’utente tra gli scaffali.
- 
+Tramite la funzione “Stampa / Elenco di conteggio” verranno prodotte le stampe che accompagneranno l’utente tra gli scaffali.  
 
-Lasciare disabilitata l’opzione “Stampa disponibilità” e premere OK
- 
+![09](/assets/img/02/09.png)
+<br>
 
-N.B.: La stampa ottenuta è attualmente in corso di revisione
- 
+Lasciare disabilitata l’opzione “Stampa disponibilità” e premere OK  
+
+![09](/assets/img/02/09.png)
+<br>
+
+N.B.: La stampa ottenuta è attualmente in corso di revisione  
+
+![10](/assets/img/02/10.png)
+<br>
  
 Quanto contato su carta deve essere trasferito in D365 utilizzando il campo “Contato” (1)
-Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria una rettifica non fosse presente. Tale costo (3) deve essere inserito manualmente prima di registrare il giornale.
- 
+Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria una rettifica non fosse presente. Tale costo (3) deve essere inserito manualmente prima di registrare il giornale.  
+
+![11](/assets/img/02/11.png)
+<br>
 
 # Conteggio con scanner
 La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
 Una volta creato il giornale contenente l’elenco degli articoli da contare, verificare che l’opzione “Rilascia su Mobile” sia attiva. Solo in questo caso il giornale sarà visualizzato sullo scanner.  
+
+![12](/assets/img/02/12.png)
+<br>
+
 1. Nel menu principale dello scanner seleziona la voce “Count”
 2. Verranno mostrati tutti i giornali di conteggio aperti (uno in questo caso). Toccare quello che si intende processare per portarsi al suo interno.
 3. Sullo scanner non saranno mostrate le quantità attualmente disponibili in sistema, ma il solo valore conteggiato.  
@@ -114,6 +126,8 @@ Una volta creato il giornale contenente l’elenco degli articoli da contare, ve
 Per passare ad un’altra ubicazione sarà sufficiente scansionare il QR code dell'ubicazione successiva, il filtro si modificherà di conseguenza.
 Per eliminare il filtro e visualizzare nuovamente l’intero giornale, toccare la “x”
 {: .prompt-tip}
+
+![17](/assets/img/02/17.png)  <br>
 
 Scansionare il codice articolo da contare, confermare l’ubicazione attuale (non è possibile effettuare un trasferimento di ubicazione durante il conteggio inventariale). Inserire la quantità contata e confermare.
          
