@@ -104,7 +104,7 @@ Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria
 ![12](/assets/img/02/12.png)
 <br>
 
-Salvare quanto fatto e procedere con l'invio a D365 (vedi apposita sezione).
+Salvare quanto fatto e procedere con [l'invio a D365](Invio).
 
 # Conteggio con scanner
 La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
