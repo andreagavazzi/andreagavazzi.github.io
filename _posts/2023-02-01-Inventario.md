@@ -22,27 +22,27 @@ Entrare in Gestione articoli / Scritture contabili / Conteggio articoli / Conteg
 Creare un nuovo giornale premendo “Nuovo” (1)  
 Verificare la correttezza di sito e magazzino (2)  
 Abilitare magazzino e ubicazione (3)  
-Nel caso si volessero utilizzare gli scanner abilitare la voce “Rilascio su mobile” (5). È comunque possibile abilitare questa funzione anche successivamente.  
+Nel caso si volessero utilizzare gli scanner abilitare la voce “Rilascio su mobile” (5), ma è possibile abilitare questa funzione anche successivamente.  
 Inserire la persona che sta facendo il conteggio (4)  
 
- 
 # Inserimento delle righe
 Scegliere dal menu “Crea righe” la voce “Disponibilità”
 
 ![01a](/assets/img/02/01a.png)
 <br>
 
-In questa schermata è necessario selezionare la combinazione di parametri e di filtri che porteranno alla creazione delle righe articoli nel giornale.
-1.	Parametri
+In questa schermata è necessario selezionare la combinazione di parametri e di filtri che porteranno alla creazione delle righe articoli nel giornale.  
+
+**Parametri**
 ![02](/assets/img/02/02.png)
 <br>
 
-Data di conteggio: la data in cui si esegue il conteggio.
-Non contati da: l’elenco includerà tutti gli articoli che, a partire dalla data inserita, non sono mai stati contati (il sistema controlla la Data di conteggio).
-Includere articoli senza disponibilità: deve essere attivo in quanto è necessario contare anche quegli articoli per i quali non ho disponibilità in sistema. Potrei infatti avere disponibilità fisica
-Ho poi un gruppo di parametri che vanno abilitati e indicano al sistema come produrre la lista: Configurazione, Magazzino, Stato inventario, Ubicazione.
+Data di conteggio: la data in cui si esegue il conteggio.  
+Non contati da: l’elenco includerà tutti gli articoli che, a partire dalla data inserita, non sono mai stati contati (il sistema controlla la Data di conteggio).  
+Includere articoli senza disponibilità: deve essere attivo in quanto è necessario contare anche quegli articoli per i quali non ho disponibilità in sistema. Potrei infatti avere una loro disponibilità fisica.  
+Ho poi un gruppo di parametri che vanno abilitati e indicano al sistema come produrre la lista: Configurazione, Magazzino, Stato inventario, Ubicazione.  
 
-2.	Record da includere (filtro)
+**Record da includere (filtro)**
 Accedere al filtro per definire ulteriormente l’elenco degli articoli proposti dal sistema
 ![03](/assets/img/02/03.png)
 <br>
@@ -82,7 +82,7 @@ Nel caso fosse stato commesso un errore durante la scelta dei parametri o dei fi
 
 È inoltre possibile inserire manualmente nuove righe nel giornale stesso. Utile per apportare piccole correzioni.
 
-Conteggio con supporto cartaceo
+# Conteggio con supporto cartaceo
 Tramite la funzione “Stampa / Elenco di conteggio” verranno prodotte le stampe che accompagneranno l’utente tra gli scaffali.  
 
 ![09](/assets/img/02/09.png)
@@ -90,25 +90,27 @@ Tramite la funzione “Stampa / Elenco di conteggio” verranno prodotte le stam
 
 Lasciare disabilitata l’opzione “Stampa disponibilità” e premere OK  
 
-![09](/assets/img/02/09.png)
+![10](/assets/img/02/10.png)
 <br>
 
 N.B.: La stampa ottenuta è attualmente in corso di revisione  
 
-![10](/assets/img/02/10.png)
-<br>
- 
-Quanto contato su carta deve essere trasferito in D365 utilizzando il campo “Contato” (1)
-Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria una rettifica non fosse presente. Tale costo (3) deve essere inserito manualmente prima di registrare il giornale.  
-
 ![11](/assets/img/02/11.png)
 <br>
+ 
+Quanto contato tramite supporto cartaceo deve essere copiato in D365 nel campo “Contato” (1)
+Il sistema avviserà (2) qualora il costo di un articolo sul quale è necessaria una rettifica non fosse presente. Tale costo (3) deve essere inserito manualmente prima di registrare il giornale.     
+
+![12](/assets/img/02/12.png)
+<br>
+
+Salvare quanto fatto e procedere con l'invio a D365 (vedi apposita sezione).
 
 # Conteggio con scanner
 La preparazione del giornale non cambia. Riferirsi pertanto a questa sezione.
 Una volta creato il giornale contenente l’elenco degli articoli da contare, verificare che l’opzione “Rilascia su Mobile” sia attiva. Solo in questo caso il giornale sarà visualizzato sullo scanner.  
 
-![12](/assets/img/02/12.png)
+![13](/assets/img/02/13.png)
 <br>
 
 1. Nel menu principale dello scanner seleziona la voce “Count”
@@ -140,9 +142,9 @@ Scansionare il codice articolo da contare, confermare l’ubicazione attuale (no
 
 È ora possibile continuare il conteggio scansionando un altro articolo o l’ubicazione successiva. 
 
-# Conteggio ripetuto e gestione errori
+# Gestione errori
 Quando si inserisce la quantità di un articolo, fare attenzione a quanto indicato sullo schermo: se è presente la barra verde allora l’articolo è già stato contato (viene mostrato anche il valore).
-Un nuovo input si somma a quello già presente. Il che in alcuni casi potrebbe essere utile per modificare, ma solo in aumento, un conteggio precedente.  
+Un nuovo input si somma a quello già presente. Il che in alcuni casi potrebbe essere voluto per modificare, ma solo in aumento, un conteggio precedente.  
 
 |                             |                             |
 |:----------------------------|:----------------------------|
@@ -183,7 +185,7 @@ Tutte le righe devono essere state contate, cioè deve esserci un valore nella c
 ![30](/assets/img/02/30.png)
 <br>
 
-Il sistema procederà a rettificare quegli articoli che hanno una differenza positiva o negativa tra disponibile e contato. L’operazione si concluderà dopo qualche secondo. 
+Il sistema procederà a rettificare quegli articoli che hanno una differenza (positiva o negativa) tra disponibile e contato. L’operazione si concluderà dopo qualche secondo. 
 Tramite la funzione “Visualizza registrazioni” è possibile verificare le registrazioni effettuate ed il giustificativo prodotto  
 
 ![31](/assets/img/02/31.png)
