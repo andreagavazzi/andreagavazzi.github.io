@@ -127,7 +127,7 @@ Per passare ad un’altra ubicazione sarà sufficiente scansionare il QR code de
 Per eliminare il filtro e visualizzare nuovamente l’intero giornale, toccare la “x”
 {: .prompt-tip}
 
-![17](/assets/img/02/17.png){: w= "250"}  <br>
+![17](/assets/img/02/17.png){: w="250"}  <br>
 
 Scansionare il codice articolo da contare, confermare l’ubicazione attuale (non è possibile effettuare un trasferimento di ubicazione durante il conteggio inventariale). Inserire la quantità contata e confermare.  
 
@@ -143,7 +143,6 @@ Scansionare il codice articolo da contare, confermare l’ubicazione attuale (no
 # Conteggio ripetuto e gestione errori
 Quando si inserisce la quantità di un articolo, fare attenzione a quanto indicato sullo schermo: se è presente la barra verde allora l’articolo è già stato contato (viene mostrato anche il valore).
 Un nuovo input si somma a quello già presente. Il che in alcuni casi potrebbe essere utile per modificare, ma solo in aumento, un conteggio precedente.  
-
 |                             |                             |
 |:----------------------------|:----------------------------|
 | ![21](/assets/img/02/21.png){: w="250"} | ![22](/assets/img/02/22.png){: w="250"} |
