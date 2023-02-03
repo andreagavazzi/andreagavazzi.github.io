@@ -2,7 +2,7 @@
 title: Il primo accesso al sistema
 date: 2023-01-31 23:29:00 +0100
 categories: [Generale, Sistema]
-tags: []     # TAG names should always be lowercase
+tags: [personalizzazioni]     # TAG names should always be lowercase
 pin: true
 ---
 
@@ -18,54 +18,81 @@ L’accesso a Dynamics 365 avviene tramite browser da qualsiasi dispositivo e se
 ![01](/assets/img/03/01.png)
 <br>
  
+Ogni utente ha uno o più ruolo assegnato in base alle funzioni anziendali che svolge, quindi, ad esempio, chi si occupa di ricambi avrà delle funzioni che chi si occupa di macchine non troverà.
 
 # Homepage
-La prima schermata raccoglie due aree principali
- 
+La prima schermata, che può essere altamente personalizzata raccoglie più elementi
+
+![02](/assets/img/03/02.png)
+<br>
+
+Ci sono due elementi fondamentali in sistema: le **aree di lavoro** e i **moduli**
+L'area di lavoro è un cruscotto che visualizza degli indicatori, mostra report, racchiude link per accedere ai moduli.  
+I moduli sono le zone in cui vengono svolte le normali operazioni di sistema.  
+
 1.	Aree: presenta l’accesso alle aree di lavoro che raccolgono le funzioni raggruppate per ruolo utente. Ogni riquadro permette l’accesso ad un’area specifica.
-2.	Bottone “hamburger”: qui troviamo il menu con i diversi moduli (in stile AX)
-3.	Barra menu di sistema
+2.	Bottone hamburger: qui troviamo il menu con i diversi moduli di sistema
+3.	Barra menu
 4.	Eventuali azioni assegnate all’utente
  
-Opzioni utente
-Le opzioni utente sono accessibili dal bottone ingranaggio
- 
-Visivo 
-L’area permette di selezionare il colore dell’interfaccia e la relativa dimensione
-Si raccomanda di lasciare il colore predefinito e di selezionare la dimensione più compatta
- 
-Preferenze 
-In questo blocco troviamo le impostazioni di lingua e paese che permettono, tra le altre cose, di cambiare il formato data
- 
+# Opzioni utente
+Le opzioni utente sono accessibili dal bottone ingranaggio e racchiudono diverse scelte che permettono di impostare gli elementi principali del sistema.
+
+![03](/assets/img/03/03.png)
+<br>
+
+**Visivo** 
+L’area permette di selezionare il colore dell’interfaccia e la relativa dimensione  
+
+![04](/assets/img/03/04.png)
+<br>
+
+> Si raccomanda di lasciare il colore predefinito e di selezionare la dimensione più compatta
+{: .prompt-warning }
+
+**Preferenze** 
+In questo blocco troviamo le impostazioni di lingua e paese che permettono, tra le altre cose, di cambiare il formato data.  
+
+![05](/assets/img/03/05.png)
+<br>
 
 
+# La navigazione
+Ci sono due modi principali per accedere ai moduli, il campo di ricerca e il menu "hamburger".
+Il campo di ricerca (lente di ingrandimento) permette di trovare aree di sistema in base al loro nome (es. tutti i clienti) mentre il menu "hamburger" elenca tutte le aree e tutti i moduli disponibili.  
 
-La navigazione
-Ricerca per area
-Il bottone di ricerca (lente di ingrandimento) permette di trovare aree di sistema in base al loro nome
- 
+![06](/assets/img/03/06.png)
+<br>
 
-Le aree di lavoro
-L’accesso alle aree di lavoro avviene dal workspace principale una volta premuto sul quadrato corrispondente o dal menu di sinistra (bottone hamburger)
-Le aree di lavoro sono simili tra loro per impostazione.
- 
+# Le aree di lavoro
+Come detto, un'area di lavoro racchiude diversi elementi e permette un rapido accesso alle informazioni più ricorrenti. Benchè personalizzate per ruolo e personalizzabili per utente, le aree di lavoro sono simili tra loro per impostazione.  
 
-1.	Nella parte di sinistra troviamo i riquadri che danno immediato accesso alle liste.
+![07](/assets/img/03/07.png)
+<br>
+
+1.	Nella parte di sinistra troviamo i riquadri, con indicatori, che danno immediato accesso alle liste.
 2.	Nella parte centrale troviamo le liste stesse
 3.	Nella parte destra ci sono i collegamenti ai moduli
- 
-Filtri
-La funzione Ctrl+G non esiste più. Il filtro ha ora un funzionamento simile a quello di Excel
- 
+
+# I moduli
+I moduli si presentano all'utente come liste di dati. Ogni riga è un dato (es. un cliente, una macchina, un ordine fornitore, ...). I moduli rappresentano il fultro dell'attività in sistema.  
+
+![08](/assets/img/03/08.png)
+<br>
+
 1.	Ogni colonna ha il suo filtro
 2.	Qui troviamo la possibilità di definire i parametri di ricerca
 3.	Nel campo di inserimento del testo è possibile utilizzare il carattere jolly *
 
-Il filtro che troviamo sopra alla lista è invece limitato ad alcuni campi predefiniti
+Il campo di ricerca che troviamo sopra alla lista è utilizzabile come filtro, ma racchiude solo pochi campi predefiniti.  
  
+![09](/assets/img/03/09.png)
+<br>
 
-È possibile utilizzare il filtro riepilogativo di sinistra per una visione più immediata
- 
+Sulla sinistra, il bottone con il simbolo dell'imbuto, dà accesso ad un riepilogo dei filtri applicati e offre la possibilità di applicarne ulteriori raffinando la ricerca.  
+
+![10](/assets/img/03/10.png)
+<br> 
 
 
 Informazioni correlate
