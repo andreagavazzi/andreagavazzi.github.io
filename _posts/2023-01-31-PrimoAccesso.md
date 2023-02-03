@@ -11,7 +11,7 @@ pin: true
 {: .prompt-info }
 
 
-# Login
+## Login
 
 L’accesso a Dynamics 365 avviene tramite browser da qualsiasi dispositivo e senza necessità di una connessione VPN utilizzando le proprie credenziali (indifferentemente l’indirizzo mail oppure lo username). È raccomandato l’utilizzo di Edge.
 
@@ -20,7 +20,7 @@ L’accesso a Dynamics 365 avviene tramite browser da qualsiasi dispositivo e se
  
 Ogni utente ha uno o più ruolo assegnato in base alle funzioni anziendali che svolge, quindi, ad esempio, chi si occupa di ricambi avrà delle funzioni che chi si occupa di macchine non troverà.
 
-# Homepage
+## Homepage
 La prima schermata, che può essere altamente personalizzata raccoglie più elementi
 
 ![02](/assets/img/03/02.png)
@@ -35,7 +35,7 @@ I moduli sono le zone in cui vengono svolte le normali operazioni di sistema.
 3.	Barra menu
 4.	Eventuali azioni assegnate all’utente
  
-# Opzioni utente
+## Opzioni utente
 Le opzioni utente sono accessibili dal bottone ingranaggio e racchiudono diverse scelte che permettono di impostare gli elementi principali del sistema.
 
 ![03](/assets/img/03/03.png)
@@ -57,14 +57,14 @@ In questo blocco troviamo le impostazioni di lingua e paese che permettono, tra 
 <br>
 
 
-# La navigazione
+## La navigazione
 Ci sono due modi principali per accedere ai moduli, il campo di ricerca e il menu "hamburger".
 Il campo di ricerca (lente di ingrandimento) permette di trovare aree di sistema in base al loro nome (es. tutti i clienti) mentre il menu "hamburger" elenca tutte le aree e tutti i moduli disponibili.  
 
 ![06](/assets/img/03/06.png)
 <br>
 
-# Le aree di lavoro
+## Le aree di lavoro
 Come detto, un'area di lavoro racchiude diversi elementi e permette un rapido accesso alle informazioni più ricorrenti. Benchè personalizzate per ruolo e personalizzabili per utente, le aree di lavoro sono simili tra loro per impostazione.  
 
 ![07](/assets/img/03/07.png)
@@ -74,7 +74,7 @@ Come detto, un'area di lavoro racchiude diversi elementi e permette un rapido ac
 2.	Nella parte centrale troviamo le liste stesse
 3.	Nella parte destra ci sono i collegamenti ai moduli
 
-# I moduli
+## I moduli
 I moduli si presentano all'utente come liste di dati. Ogni riga è un dato (es. un cliente, una macchina, un ordine fornitore, ...). I moduli rappresentano il fultro dell'attività in sistema.  
 
 ![08](/assets/img/03/08.png)
