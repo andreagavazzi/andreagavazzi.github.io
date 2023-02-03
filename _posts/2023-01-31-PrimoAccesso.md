@@ -92,10 +92,11 @@ Sulla sinistra, il bottone con il simbolo dell'imbuto, dà accesso ad un riepilo
 ![10](/assets/img/03/10.png)
 <br> 
 
-
-Informazioni correlate
+# Informazioni correlate
 Sulla destra delle liste solitamente troviamo il menu che mostra alcune informazioni relative alla riga selezionata.
- 
+
+![11](/assets/img/03/11.png)
+<br> 
 
 Rientro a menu principale
 Lo spostamento tra i moduli è possibile da diversi punti
