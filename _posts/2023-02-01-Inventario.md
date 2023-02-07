@@ -14,7 +14,7 @@ Gli articoli nel giornale verranno quindi conteggiati, con supporto cartaceo o t
 {: .prompt-warning}
 
 # Creazione del giornale
-Entrare in Gestione articoli / Scritture contabili / Conteggio articoli / Conteggio
+Entrare in Gestione articoli/Scritture contabili/Conteggio articoli/Conteggio (Inventory management/Journal entries/Item counting/Counting)
 
 ![01](/assets/img/02/01.png)
 <br>
